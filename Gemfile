@@ -34,7 +34,9 @@ gem 'jbuilder', '~> 2.5'
 
 #追記
 gem 'active_model_serializers', '~> 0.10.0'
+
 gem 'devise_token_auth'
+gem 'devise'
 gem 'rubocop-rails'
 
 
